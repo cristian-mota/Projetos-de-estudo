@@ -1,0 +1,8 @@
+
+set g_antilag "0"
+set rate "25000"
+set snaps "30"
+set cl_packetdup "0"
+set com_maxfps "100"
+set cl_maxpackets "100"
+set r_multigpu "1"
