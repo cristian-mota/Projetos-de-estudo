@@ -9,3 +9,6 @@ set r_multigpu "1"
 
 
 nova linha
+
+
+meu nome é cristian
